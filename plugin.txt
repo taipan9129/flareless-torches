@@ -1,0 +1,8 @@
+name "Flareless Torches"
+version "v1.0.0"
+about "Adds flareless variants of Avgi fusion torches."
+authors
+	"taipan"
+tags
+	"graphics"
+	"outfits"

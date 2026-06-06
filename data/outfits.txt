@@ -1,0 +1,47 @@
+outfit "Z-333B Flareless Torch"
+	category "Engines"
+	series "Engines"
+	index 07071
+	licenses
+		"Avgi Torch"
+	"cost" 3600000
+	thumbnail "outfit/spark flareless torch"
+	"mass" 333
+	"outfit space" -33
+	"engine capacity" -33
+	"thrust" 120
+	"thrusting energy" 9
+	"thrusting heat" 60
+	"thrusting fuel" 0.15
+	"drag reduction" 1
+	"flare sound" "fusion torch"
+	"magnetic nozzle" 3
+	linked "Remass Injector"
+	linked "Inductive Extractor"
+	description "This highly modified Z-333 fusion torch injects a special additive into its fuel, causing flaring to become virtually invisible."
+
+outfit "Z-666B Flareless Torch"
+	category "Engines"
+	series "Engines"
+	index 07072
+	licenses
+		"Avgi Torch"
+	"cost" 9000000
+	thumbnail "outfit/zap flareless torch"
+	"mass" 666
+	"outfit space" -66
+	"engine capacity" -66
+	"thrust" 270
+	"thrusting energy" 18
+	"thrusting heat" 120
+	"thrusting fuel" 0.3
+	"drag reduction" 2
+	"flare sound" "fusion torch"
+	"magnetic nozzle" 6
+	linked "Remass Injector"
+	linked "Inductive Extractor"
+	description "This highly modified Z-666 fusion torch injects a special additive into its fuel, causing flaring to become virtually invisible."
+
+outfitter "Avgi Torches"
+	"Z-333B Flareless Torch"
+	"Z-666B Flareless Torch"
