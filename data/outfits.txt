@@ -42,6 +42,97 @@ outfit "Z-666B Flareless Torch"
 	linked "Inductive Extractor"
 	description "This highly modified Z-666 fusion torch injects a special additive into its fuel, causing flaring to become virtually invisible."
 
+outfit "Flareless Afterburner (Asteroid Class)"
+	category "Engines"
+	series "Afterburners"
+	index 04061
+	"cost" 136000
+	thumbnail "outfit/tiny korath noburner"
+	"mass" 9
+	"outfit space" -9
+	"engine capacity" -5
+	"fuel capacity" 100
+	"ramscoop" 0.25
+	"afterburner thrust" 20.6
+	"afterburner energy" 0.6
+	"afterburner heat" 6.25
+	"afterburner fuel" 0.075
+	description "Recent attempts by the Korath to reduce the IR signature of their thrusters have led to their discovery of flareless engine technology. This invention did not provide a noticeable reduction in their engines' thermal footprint, however, limiting its widespread adoption."
+
+outfit "Flareless Afterburner (Comet Class)"
+	category "Engines"
+	series "Afterburners"
+	index 04062
+	"cost" 299000
+	thumbnail "outfit/small korath noburner"
+	"mass" 19
+	"outfit space" -19
+	"engine capacity" -19
+	"afterburner thrust" 84.3
+	"afterburner energy" 2.25
+	"afterburner heat" 22.75
+	"afterburner fuel" 0.25
+	description "Recent attempts by the Korath to reduce the IR signature of their thrusters have led to their discovery of flareless engine technology. This invention did not provide a noticeable reduction in their engines' thermal footprint, however, limiting its widespread adoption."
+
+outfit "Flareless Afterburner (Lunar Class)"
+	category "Engines"
+	series "Afterburners"
+	index 04063
+	"cost" 647000
+	thumbnail "outfit/medium korath noburner"
+	"mass" 32
+	"outfit space" -32
+	"engine capacity" -32
+	"afterburner thrust" 148.5
+	"afterburner energy" 3.9
+	"afterburner heat" 41.65
+	"afterburner fuel" 0.45
+	description "Recent attempts by the Korath to reduce the IR signature of their thrusters have led to their discovery of flareless engine technology. This invention did not provide a noticeable reduction in their engines' thermal footprint, however, limiting its widespread adoption."
+
+outfit "Flareless Afterburner (Planetary Class)"
+	category "Engines"
+	series "Afterburners"
+	index 04064
+	"cost" 1459000
+	thumbnail "outfit/large korath noburner"
+	"mass" 55
+	"outfit space" -55
+	"engine capacity" -55
+	"afterburner thrust" 265.5
+	"afterburner energy" 7.1
+	"afterburner heat" 79.45
+	"afterburner fuel" 0.8
+	"heat capacity" 150
+	description "Recent attempts by the Korath to reduce the IR signature of their thrusters have led to their discovery of flareless engine technology. This invention did not provide a noticeable reduction in their engines' thermal footprint, however, limiting its widespread adoption."
+
+outfit "Flareless Afterburner (Stellar Class)"
+	category "Engines"
+	series "Afterburners"
+	index 04065
+	"cost" 3280000
+	thumbnail "outfit/huge korath noburner"
+	"mass" 94
+	"outfit space" -94
+	"engine capacity" -94
+	"afterburner thrust" 474.3
+	"afterburner energy" 12.65
+	"afterburner heat" 148
+	"afterburner fuel" 1.45
+	"active cooling" 8
+	"cooling energy" 0.4
+	"heat capacity" 150
+	description "Recent attempts by the Korath to reduce the IR signature of their thrusters have led to their discovery of flareless engine technology. This invention did not provide a noticeable reduction in their engines' thermal footprint, however, limiting its widespread adoption."
+
 outfitter "Avgi Torches"
 	"Z-333B Flareless Torch"
 	"Z-666B Flareless Torch"
+
+outfitter "Korath Flareless"
+	"Flareless Afterburner (Asteroid Class)"
+	"Flareless Afterburner (Comet Class)"
+	"Flareless Afterburner (Lunar Class)"
+	"Flareless Afterburner (Planetary Class)"
+	"Flareless Afterburner (Stellar Class)"
+
+planet "Laki Nemparu"
+	outfitter "Korath Flareless"
