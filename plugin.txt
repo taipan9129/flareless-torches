@@ -1,6 +1,6 @@
 name "Flareless Torches"
-version "v1.0.0"
-about "Adds flareless variants of Avgi fusion torches."
+version "v1.0.1"
+about "Adds flareless variants of Avgi fusion torches and Korath afterburners."
 authors
 	"taipan"
 tags
