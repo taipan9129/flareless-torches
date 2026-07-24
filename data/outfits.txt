@@ -4,7 +4,7 @@ outfit "Z-333B Flareless Torch"
 	index 07071
 	licenses
 		"Avgi Torch"
-	"cost" 3600000
+	"cost" 3960000
 	thumbnail "outfit/spark flareless torch"
 	"mass" 333
 	"outfit space" -33
@@ -26,7 +26,7 @@ outfit "Z-666B Flareless Torch"
 	index 07072
 	licenses
 		"Avgi Torch"
-	"cost" 9000000
+	"cost" 9900000
 	thumbnail "outfit/zap flareless torch"
 	"mass" 666
 	"outfit space" -66
@@ -46,7 +46,7 @@ outfit "Flareless Afterburner (Asteroid Class)"
 	category "Engines"
 	series "Afterburners"
 	index 04061
-	"cost" 136000
+	"cost" 149600
 	thumbnail "outfit/tiny korath noburner"
 	"mass" 9
 	"outfit space" -9
@@ -63,7 +63,7 @@ outfit "Flareless Afterburner (Comet Class)"
 	category "Engines"
 	series "Afterburners"
 	index 04062
-	"cost" 299000
+	"cost" 328900
 	thumbnail "outfit/small korath noburner"
 	"mass" 19
 	"outfit space" -19
@@ -78,7 +78,7 @@ outfit "Flareless Afterburner (Lunar Class)"
 	category "Engines"
 	series "Afterburners"
 	index 04063
-	"cost" 647000
+	"cost" 711700
 	thumbnail "outfit/medium korath noburner"
 	"mass" 32
 	"outfit space" -32
@@ -93,7 +93,7 @@ outfit "Flareless Afterburner (Planetary Class)"
 	category "Engines"
 	series "Afterburners"
 	index 04064
-	"cost" 1459000
+	"cost" 1604900
 	thumbnail "outfit/large korath noburner"
 	"mass" 55
 	"outfit space" -55
@@ -109,7 +109,7 @@ outfit "Flareless Afterburner (Stellar Class)"
 	category "Engines"
 	series "Afterburners"
 	index 04065
-	"cost" 3280000
+	"cost" 3608000
 	thumbnail "outfit/huge korath noburner"
 	"mass" 94
 	"outfit space" -94
