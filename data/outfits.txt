@@ -207,7 +207,6 @@ outfitter "Korath Flareless"
 	"Flareless Afterburner (Stellar Class)"
 
 outfitter "Remnant"
-	"Flareless Afterburner (Bellows-Class)"
 	"Flareless Thruster (Crucible-Class)"
 	"Flareless Thruster (Forge-Class)"
 	"Flareless Thruster (Smelter-Class)"
