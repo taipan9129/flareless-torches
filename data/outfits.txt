@@ -1,3 +1,5 @@
+# Avgi:
+
 outfit "Z-333B Flareless Torch"
 	category "Engines"
 	series "Engines"
@@ -41,6 +43,8 @@ outfit "Z-666B Flareless Torch"
 	linked "Remass Injector"
 	linked "Inductive Extractor"
 	description "This highly modified Z-666 fusion torch injects a special additive into its fuel, causing flaring to become virtually invisible."
+
+# Korath:
 
 outfit "Flareless Afterburner (Asteroid Class)"
 	category "Engines"
@@ -122,6 +126,8 @@ outfit "Flareless Afterburner (Stellar Class)"
 	"cooling energy" 0.4
 	"heat capacity" 150
 	description "Recent attempts by the Korath to reduce the IR signature of their thrusters have led to their discovery of flareless engine technology. This invention did not provide a noticeable reduction in their engines' thermal footprint, however, limiting its widespread adoption."
+
+# Remnant:
 
 outfit "Flareless Thruster (Crucible-Class)"
 	category "Engines"
