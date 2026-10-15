@@ -123,6 +123,72 @@ outfit "Flareless Afterburner (Stellar Class)"
 	"heat capacity" 150
 	description "Recent attempts by the Korath to reduce the IR signature of their thrusters have led to their discovery of flareless engine technology. This invention did not provide a noticeable reduction in their engines' thermal footprint, however, limiting its widespread adoption."
 
+outfit "Flareless Thruster (Crucible-Class)"
+	category "Engines"
+	series "Engines"
+	index 03042
+	licenses
+		Remnant
+	"cost" 200000
+	thumbnail "outfit/small remnant nothruster"
+	"mass" 20
+	"outfit space" -20
+	"engine capacity" -20
+	"thrust" 24.825
+	"thrusting energy" 2.1
+	"thrusting heat" 2.0
+	"reverse thrust" 18.6
+	"reverse thrusting energy" 1.6
+	"reverse thrusting heat" 1.5
+	"slowing resistance" 0.012
+	"flare sound" "plasma tiny"
+	"reverse flare sound" "plasma tiny"
+	description ""
+
+outfit "Flareless Thruster (Forge-Class)"
+	category "Engines"
+	series "Engines"
+	index 03043
+	licenses
+		Remnant
+	"cost" 441000
+	thumbnail "outfit/medium remnant nothruster"
+	"mass" 39
+	"outfit space" -39
+	"engine capacity" -39
+	"thrust" 51
+	"thrusting energy" 4.4
+	"thrusting heat" 4.25
+	"reverse thrust" 38.25
+	"reverse thrusting energy" 3.3
+	"reverse thrusting heat" 3.2
+	"slowing resistance" 0.024
+	"flare sound" "plasma small"
+	"reverse flare sound" "plasma small"
+	description ""
+
+outfit "Flareless Thruster (Smelter-Class)"
+	category "Engines"
+	series "Engines"
+	index 03044
+	licenses
+		Remnant
+	"cost" 984000
+	thumbnail "outfit/large remnant nothruster"
+	"mass" 76
+	"outfit space" -76
+	"engine capacity" -76
+	"thrust" 106.65
+	"thrusting energy" 9.5
+	"thrusting heat" 9.6
+	"reverse thrust" 79.95
+	"reverse thrusting energy" 7.1
+	"reverse thrusting heat" 7.2
+	"slowing resistance" 0.048
+	"flare sound" "plasma medium"
+	"reverse flare sound" "plasma medium"
+	description ""
+
 outfitter "Avgi Torches"
 	"Z-333B Flareless Torch"
 	"Z-666B Flareless Torch"
@@ -133,6 +199,12 @@ outfitter "Korath Flareless"
 	"Flareless Afterburner (Lunar Class)"
 	"Flareless Afterburner (Planetary Class)"
 	"Flareless Afterburner (Stellar Class)"
+
+outfitter "Remnant"
+	"Flareless Afterburner (Bellows-Class)"
+	"Flareless Thruster (Crucible-Class)"
+	"Flareless Thruster (Forge-Class)"
+	"Flareless Thruster (Smelter-Class)"
 
 planet "Laki Nemparu"
 	outfitter "Korath Flareless"
