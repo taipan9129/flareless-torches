@@ -135,7 +135,7 @@ outfit "Flareless Thruster (Crucible-Class)"
 	index 03042
 	licenses
 		Remnant
-	"cost" 200000
+	"cost" 220000
 	thumbnail "outfit/small remnant nothruster"
 	"mass" 20
 	"outfit space" -20
@@ -157,7 +157,7 @@ outfit "Flareless Thruster (Forge-Class)"
 	index 03043
 	licenses
 		Remnant
-	"cost" 441000
+	"cost" 485100
 	thumbnail "outfit/medium remnant nothruster"
 	"mass" 39
 	"outfit space" -39
@@ -179,7 +179,7 @@ outfit "Flareless Thruster (Smelter-Class)"
 	index 03044
 	licenses
 		Remnant
-	"cost" 984000
+	"cost" 1082400
 	thumbnail "outfit/large remnant nothruster"
 	"mass" 76
 	"outfit space" -76
